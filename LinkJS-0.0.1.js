@@ -1,7 +1,7 @@
 /*
 LinkJS 0.0.1 (alpha)
 Licensed under the MIT License.
-https://github.com/game59600/LinkJS
+http://github.com/game59600/LinkJS
 */
 
 
